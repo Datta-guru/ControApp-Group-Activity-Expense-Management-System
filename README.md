@@ -8,6 +8,25 @@ SplitContro is a mobile-based group expense management application that allows u
 - Send WhatsApp reminders using Twilio
 
 ---
+## Project Structure (File Architecture)
+SplitContro/
+│
+├── Frontend/
+│   └── controApp/
+│       ├── lib/screen(Contain all the page of app)
+│       ├── android/
+│       ├── ios/
+│       ├── pubspec.yaml
+│       └── ... (Flutter source code)
+│
+├── Backend/
+│   ├── main.py
+│   ├── SqlOuery.sql
+│   ├── schema.mwb
+│   └── ... (API logic and database queries)
+|
+└── README.md
+
 
 ##  Tech Stack
 
