@@ -44,7 +44,7 @@ def get_db():
     return mysql.connector.connect(
         host="localhost",
         user="root",
-        password="220928",
+        password="YOUR PASSWORD",
         database="contro_app"
     )
 
