@@ -57,7 +57,8 @@ Update DB config in main.py:
 1️ 
 Install Flutter dependencies:
 - flutter pub get
-2️
+
+
 Run App:
 - flutter run
 
