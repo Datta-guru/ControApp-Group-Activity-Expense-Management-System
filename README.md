@@ -9,8 +9,8 @@ SplitContro is a mobile-based group expense management application that allows u
 
 ---
 ## Project Structure (File Architecture)
-SplitContro/
-│
+ControApp//n
+│\n
 ├── Frontend/
 │   └── controApp/
 │       ├── lib/screen(Contain all the page of app)
