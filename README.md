@@ -1,6 +1,6 @@
-##  SplitContro - Group Expense Management System
+##  ControApp - Group Expense Management System
 
-SplitContro is a mobile-based group expense management application that allows users to:
+ControApp is a mobile-based group expense management application that allows users to:
 - Create expense groups (Contro)
 - Add members
 - Automatically split expenses
