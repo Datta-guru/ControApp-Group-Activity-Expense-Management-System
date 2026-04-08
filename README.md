@@ -55,19 +55,19 @@ Update DB config in main.py:
 
 ## Flutter Setup
 1️ 
-Install Flutter dependencies
+Install Flutter dependencies:
 - flutter pub get
 2️
-Run App
+Run App:
 - flutter run
 
 ## Get Your IP Address
 
 Windows:
-ipconfig
+- ipconfig
 
 Mac/Linux:
-ifconfig
+- ifconfig
 
 Example:
 http://192.168.1.10:8000
