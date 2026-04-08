@@ -72,7 +72,6 @@ Update DB config in main.py:
 - AUTH_TOKEN = "your_token"
 
 ## Flutter Setup
-1️ 
 Install Flutter dependencies:
 - flutter pub get
 
