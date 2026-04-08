@@ -39,9 +39,10 @@ http://localhost:8000
 
 ## Database Setup (MySQL)
 
-Create database:
-CREATE DATABASE contro_app;
+# CREATE DATABASE contro_app;
+
 Update DB config in main.py:
+
 def get_db():
     return mysql.connector.connect(
         host="localhost",
@@ -49,6 +50,10 @@ def get_db():
         password="YOUR_PASSWORD",
         database="contro_app"
     )
+
+ACCOUNT_SID = "your_sid"
+
+AUTH_TOKEN = "your_token"
 
 ## Flutter Setup
 1️ 
