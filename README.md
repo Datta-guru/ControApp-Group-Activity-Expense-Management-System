@@ -42,7 +42,7 @@ CREATE DATABASE contro_app;
 
 Update DB config in main.py:
 
-def get_db():
+- def get_db():
     return mysql.connector.connect(
         host="localhost",
         user="root",
@@ -50,17 +50,16 @@ def get_db():
         database="contro_app"
     )
 
-ACCOUNT_SID = "your_sid"
-
-AUTH_TOKEN = "your_token"
+- ACCOUNT_SID = "your_sid"
+- AUTH_TOKEN = "your_token"
 
 ## Flutter Setup
 1️ 
 Install Flutter dependencies
-flutter pub get
+- flutter pub get
 2️
 Run App
-flutter run
+- flutter run
 
 ## Get Your IP Address
 
