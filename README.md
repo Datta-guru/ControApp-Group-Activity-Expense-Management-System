@@ -9,22 +9,23 @@ SplitContro is a mobile-based group expense management application that allows u
 
 ---
 ## Project Structure (File Architecture)
-ControApp/  
-│  
-├── Frontend/controApp/    
-│       ├── lib/screen(Contain all the page of app)  
-│       ├── android/  
-│       ├── ios/  
-│       ├── pubspec.yaml  
-│       └── ... (Flutter source code)  
-│  
-├── Backend/  
-│   ├── main.py  
-│   ├── SqlOuery.sql  
-│   ├── schema.mwb 
-│   └── ... (API logic and database queries)  
-|  
-└── README.md  
+ControApp/
+│
+├── Frontend/
+│   └── controApp/
+│       ├── lib/screen (contains all app pages)
+│       ├── android/
+│       ├── ios/
+│       ├── pubspec.yaml
+│       └── ... (Flutter source code)
+│
+├── Backend/
+│   ├── main.py
+│   ├── SqlQuery.sql
+│   ├── schema.mwb
+│   └── ... (API logic and database queries)
+│
+└── README.md 
   
 
 ##  Tech Stack
