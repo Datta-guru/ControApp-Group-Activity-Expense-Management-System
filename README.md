@@ -38,8 +38,7 @@ python main.py
 http://localhost:8000
 
 ## Database Setup (MySQL)
-
-# CREATE DATABASE contro_app;
+CREATE DATABASE contro_app;
 
 Update DB config in main.py:
 
